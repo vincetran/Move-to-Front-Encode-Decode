@@ -1,0 +1,8 @@
+Author: Vincent Tran
+Class: CS 1501, Algorithms Implementation
+University of Pittsburgh
+
+This console-based Java program will read in a user made file that has some sort of string 
+and encode it using the Move-to-Front transform and then output a user-defined file with 
+the encoded string.
+
